@@ -4,7 +4,7 @@
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-Ubuntu,Kali,Arch,Parrot-blue,Windows,Android.svg)]()
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-# ***Author*** : Joker-Security [ dev-labs ] 
+# ***Author*** : not name.777 [ dev-labs ] 
  ![](https://i.imgur.com/VESr2Et.jpg)
  
 # ✔️ ***Description***: 
